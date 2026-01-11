@@ -1,3 +1,5 @@
 #recent-posts > .recent-post-item > .recent-post-info > .article-meta-wrap {
-  padding: 0px 32px 32px !important;
+  padding: 0px 32px 24px !important;
 }
+/* --- 隱藏除首頁以外的頂部 Banner --- */
+
